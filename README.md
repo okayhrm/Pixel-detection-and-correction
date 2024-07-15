@@ -1,7 +1,9 @@
 # Pixel-detection-and-correction
 Detection and Correction of Pixelated Images
+
 Overview
 This project aims to develop an efficient, lightweight algorithm capable of detecting and correcting pixelated images. The main goal is to create a solution that can process high-resolution images (1920x1080) in real-time, making it suitable for applications that require high-speed image analysis, such as video streaming and live broadcasting.
+
 
 Objectives
 Detection of Pixelated Images: Design an algorithm or a machine learning model that can accurately detect whether an image is pixelated. The model should be able to run at a minimum of 30 frames per second (FPS) and ideally at 60 FPS, ensuring minimal false positives even in scenarios where pixelated images are rare.
